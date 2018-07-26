@@ -8,5 +8,14 @@ Lock and Unlock using FingerPrint Authentication
 2. Fast , Convenient and Reliable to use.
 3. Unique fingerprints assure that it’s unlocked just by you.
 4. With the help of Fingerprint authentication, online transactions become more convenient, hence your just a tap away from getting verified.
+---
+Require Permissions:
+```
+<uses-permission android:name="android.permission.USE_FINGERPRINT" />
+```
+---
+**set the minimum SDK version to Android 6.0 (API 23)**
+
+---
 
 ![Android Fingerprint Authentication](https://raw.githubusercontent.com/jayeshpansheriya/FingerprintAuthentication/master/Screenshot_20180726_143627.jpg)
